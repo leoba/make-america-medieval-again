@@ -3,6 +3,7 @@
 I took the code for the Chrome extension Make America Kittens Again:
 
 (Extension here) https://chrome.google.com/webstore/detail/make-america-kittens-agai/klchnmggepghlcolikgaekpibclpmgcm
+
 (Code here) https://github.com/tomroyal/Make-America-Kittens-Again
 
 and replaced the kitten photos with medieval manuscript images from the OPenn collection at the University of Pennsylvania (http://openn.library.upenn.edu).
