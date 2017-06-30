@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Make America Manuscripts Again",
-  "description": "Replaces images of Donald Trump with images of manuscripts from OPenn, because seriously, f*** that guy. Based on code for Make America Kittens Again",
-  "version": "1.2.1",
+  "name": "Make America Medieval Again",
+  "description": "Replaces images of Donald Trump with images of medieval manuscripts. Based on code for Make America Kittens Again",
+  "version": "1.0",
   "options_page": "mamaoptions.html",
 
   "permissions": [
