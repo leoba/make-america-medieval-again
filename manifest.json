@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+
+  "name": "Make America Manuscripts Again",
+  "description": "Replaces images of Donald Trump with images of manuscripts from OPenn, because seriously, f*** that guy. Based on code for Make America Kittens Again",
+  "version": "1.2.1",
+  "options_page": "mamaoptions.html",
+
+  "permissions": [
+    "http://www.teaandkittens.co.uk/",
+    "storage",
+    "contextMenus"
+  ],
+  "icons": { "48": "mama48.png",
+          "128": "mama128.png" },
+  "browser_action": {
+          "default_icon": { 
+	           "48": "mama48.png",
+			   "128": "mama128.png" 
+          },
+          "default_title": "#MAMA",      
+          "default_popup": "mamaoptions.html"       
+        },        
+  
+  "background": {
+    "scripts": ["setmamamenu.js"]
+  },
+          
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["mama.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "mss/*.jpg"
+  ]
+}
