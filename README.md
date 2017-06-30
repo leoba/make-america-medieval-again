@@ -2,13 +2,17 @@
 
 I took the code for the Chrome extension Make America Kittens Again:
 
-https://chrome.google.com/webstore/detail/make-america-kittens-agai/klchnmggepghlcolikgaekpibclpmgcm
+(Extension here) https://chrome.google.com/webstore/detail/make-america-kittens-agai/klchnmggepghlcolikgaekpibclpmgcm
+
+(Code here) https://github.com/tomroyal/Make-America-Kittens-Again
 
 and replaced the kitten photos with medieval manuscript images from the OPenn collection at the University of Pennsylvania (http://openn.library.upenn.edu).
 
-The collection of replacement includes images from UPenn's LJS collection, the MedRen collection, the Free Library of Philadelphia, the University of Manchester Library (UK), and the Walters Art Museum. All images are in the public domain or are licences with Creative Commons licenses that allow for re-use.
+The collection of replacement includes images from UPenn's LJS collection, the MedRen collection, the Free Library of Philadelphia, the University of Manchester Library (UK), and the Walters Art Museum. All images are in the public domain or are licenced with Creative Commons licenses that allow for re-use.
 
 Although I am a curator at Penn, I made this when I was not working. Penn isn't affiliated with this thing.
+
+You can install the extension here: https://chrome.google.com/webstore/detail/make-america-medieval-aga/lboadpaekaifmnaepgilmalmiohejhgn
 
 Tom Royal, the person who made this code, says:
 
