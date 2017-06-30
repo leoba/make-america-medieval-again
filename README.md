@@ -12,6 +12,8 @@ The collection of replacement includes images from UPenn's LJS collection, the M
 
 Although I am a curator at Penn, I made this when I was not working. Penn isn't affiliated with this thing.
 
+You can install the extension here: https://chrome.google.com/webstore/detail/make-america-medieval-aga/lboadpaekaifmnaepgilmalmiohejhgn
+
 Tom Royal, the person who made this code, says:
 
 Please feel free to copy / edit / reuse the code in any way you like, but please do not use my hosted kitten images - I have to pay the S3 bill each month ;) 
